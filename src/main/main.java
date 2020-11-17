@@ -3,19 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package quiz_pbo;
+package main;
 
 /**
  *
  * @author maria
  */
-public class Quiz_PBO {
-
-    /**
-     * @param args the command line arguments
-     */
+public class main {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
 }
